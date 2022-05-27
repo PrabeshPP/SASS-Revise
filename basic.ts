@@ -6,3 +6,9 @@
 
 let age:number;
 age=20;
+
+let isCoder:boolean=true;
+isCoder=false;
+
+let Name:String="Prabesh";
+
