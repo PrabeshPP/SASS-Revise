@@ -1,0 +1,22 @@
+{
+  "name": "saas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrabeshPP/SASS-Revise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrabeshPP/SASS-Revise/issues"
+  },
+  "homepage": "https://github.com/PrabeshPP/SASS-Revise#readme",
+  "dependencies": {
+    "typescript": "^4.7.2"
+  }
+}
